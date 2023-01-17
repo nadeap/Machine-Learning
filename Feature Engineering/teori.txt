@@ -1,0 +1,7 @@
+Feature Engineering merupakan proses penting pada ML. Mengubah, menghapus, mengolah dan memperbaiki fitur pada data sebelum dilakukan modelling ML.
+
+Langkah-Langkah Feature Engineering:
+1. Pembuatan fitur
+2. Ekstraksi fitur
+3. Penghapusan fitur
+4. Ekstraksi fitur
